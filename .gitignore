@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Jetbrains
+.idea
+
+# MacOS
+.DS_STORE
+
+# gatsby files
+.cache/
+public
